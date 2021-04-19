@@ -1,0 +1,8 @@
+.platform-win .sidebar-2K8pFh {
+    width: 5px;
+    transition: width .25s ease-in-out;
+}
+.platform-win .sidebar-2K8pFh:hover {
+    width: 20%;
+    transition: width .25s ease-in-out;
+}
